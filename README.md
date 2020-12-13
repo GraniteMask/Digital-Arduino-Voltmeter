@@ -2,7 +2,7 @@
 
 An Arduino based Digital Voltmeter is designed in this project which can be used to measure different ranges of DC voltages. Arduino UNO microcontroller based digital voltmeter has been designed and developed with liquid crystal display and voltage range indicator.
 
-![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/sociogram.png?raw=true)
+![Sociogram Home Page](https://github.com/GraniteMask/Digital-Arduino-Voltmeter/blob/main/digital_arduino_voltmeter.png?raw=true)
 
 ## Abstract:
 
@@ -31,9 +31,9 @@ With the help of the voltage divider circuit already present in the arduino, the
 The further specifications are made with the help of Arduino Code.
 Then the calculated value of input voltage is displayed through LCD with some approximate value.
 
-## Simulation Diagram ( by using TinkerCAD):
+## Simulation Diagram ( by using TinkerCAD ):
 
-![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/sociogram.png?raw=true)
+![Sociogram Home Page](https://github.com/GraniteMask/Digital-Arduino-Voltmeter/blob/main/simulation.png?raw=true)
 
 ## Applications:
 
