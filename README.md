@@ -21,7 +21,7 @@ Also Digital Voltmeter is a voltage sensitive device which senses DC voltage and
 7) Battery
 8) Breadboard
 
-## WORKING:
+## Working:
 
 In Digital Voltmeter,  Analog signals are provided that is the input voltage which is converted with the help of Analog to Digital converter. This converter is already there in Arduino UNO
 The input voltage is given to Analog input pin i.e. A0 of the Arduino. The reference voltage for Analog to Digital converter is 5V.
