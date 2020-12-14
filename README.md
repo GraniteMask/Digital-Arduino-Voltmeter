@@ -42,6 +42,6 @@ The circuit can be extended to measure even AC voltages with slight modification
 
 ## My Fellow Team-mates:
 
-HIMANSHU PATEL 
-ISHIT MATHUR 
-ASHUTOSH DWIVEDI 
+1) HIMANSHU PATEL 
+2) ISHIT MATHUR 
+3) ASHUTOSH DWIVEDI 
